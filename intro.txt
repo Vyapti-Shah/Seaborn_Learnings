@@ -1,0 +1,8 @@
+Seaborn an easy and fashionable way to display graphs similar to matplotlib but matplotlib needs a comparitively longer code
+Numpy = to work with arrays 
+Matplotlib = graphs need to be operated by matplotlib for operating by Seaborn ie we need plt (matplotlib) to run a sns (seaborn) command
+Pandas = Large amount of data storing and filter a data 
+
+Importing Matplotlib
+ import matplotlib.pyplot as plt
+ import seaborn as sns
